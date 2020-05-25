@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alarm</string>
+    <string name="alarm_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="alarm_refresh">Refresh Alarm List</string>
+    <string name="flash_message">Welcome to Alarm Application</string>
+    <string name="alarm_usr">User:</string>
+    <string name="alarm_pass">Password</string>
+    <string name="alarm_cpass">Confirm Password</string>
+    <string name="alarm_login">Login</string>
+    <string name="alarm_register">Register</string>
+    <string name="alarm_arm">Arm</string>
+    <string name="alarm_disarm">Disarm</string>
+    <string name="alarm_status">Status</string>
+    <string name="alarm_power">Power</string>
+    <string name="alarm_newpass">New Password</string>
+    <string name="alarm_delete_phonenumber">Delete Alarm Phone Number</string>
+    <string name="alarm_panic">Panic</string>
+    <string name="alarm_set_host_alarm">Set Alarm Phone Number</string>
+    <string name="alarm_autocall">Monitor</string>
+    <string name="alarm_change_zones_alarm">Change Zone Alarm</string>
+    <string name="alarm_Change_host_pass">Change Host Password</string>
+    <string name="alarm_logs">Logs</string>
+    <string name="alarm_add">add</string>
+    <string name="alarm_del">del</string>
+    <string name="alarm_edit">edit</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="alarm_select_brand">Alarm Brand</string>
+    <string name="alarm_select_model">Alarm Model</string>
+    <string name="alarm_phone_number">Alarm Phone Number</string>
+    <string name="alarm_password">Alarm Password</string>
+    <string name="alarm_add_list">Alarm Add List</string>
+    <string name="alarm_add_new_brand">Add Brand</string>
+    <string name="alarm_update">Update Alarm</string>
+    <string name="notificationtitle">Alarm Alert</string>
+
+</resources>

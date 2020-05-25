@@ -1,0 +1,31 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    
+    <color name="text_color">#000000</color>
+    <color name="textbox_color">#000000</color>
+    <color name="bg_listview">#909090</color>
+    <color name="bg_color">#009060</color>
+    <color name="bg_arm">#FF0000</color>
+    <color name="bg_disarm">#01DF01</color>
+    <color name="bg_power">#BEF781</color>
+    <color name="bg_newpass">#5882FA</color>
+    <color name="bg_delnumber">#0B614B</color>
+    <color name="bg_setnumber">#F7BE81</color>
+    
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

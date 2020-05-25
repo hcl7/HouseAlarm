@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnActionRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:text="@string/alarm_refresh" />
+
+    <Button
+        android:id="@+id/btnArm"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/arm"
+        android:text="@string/alarm_arm" />
+
+    <Button
+        android:id="@+id/btnDisarm"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/disarm"
+        android:text="@string/alarm_disarm" />
+
+    <Button
+        android:id="@+id/btnStatus"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/status"
+        android:text="@string/alarm_status" />
+
+    <Button
+        android:id="@+id/btnCheckPower"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/power"
+        android:text="@string/alarm_power" />
+
+    <Button
+        android:id="@+id/btnPanic"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/panic"
+        android:text="@string/alarm_panic" />
+
+    <Button
+        android:id="@+id/btnMonitor"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/monitor"
+        android:text="@string/alarm_autocall" />
+
+    <Button
+        android:id="@+id/btnSetAlarmPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/setphone"
+        android:text="@string/alarm_set_host_alarm" />
+
+    <Button
+        android:id="@+id/btnDeleteAlarmPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/delete"
+        android:text="@string/alarm_delete_phonenumber" />
+
+    <Button
+        android:id="@+id/btnChangeZoneAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/zone"
+        android:text="@string/alarm_change_zones_alarm" />
+
+    <Button
+        android:id="@+id/btnChangePass"
+        android:layout_width="match_parent"
+        android:layout_height="42dip"
+        android:drawableLeft="@drawable/password"
+        android:text="@string/alarm_Change_host_pass" />
+
+</LinearLayout>
